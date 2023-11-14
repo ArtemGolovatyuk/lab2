@@ -1,0 +1,39 @@
+header {
+  background-color: #4dd6ff;
+  height: 200px;
+  width: 100%;
+  margin: 0 auto;
+  color: black;
+  text-align: center;
+}
+
+nav {
+  margin: 0 auto;
+  width: 400px;
+  height: 50px;
+  background-color: red;
+}
+
+aside {
+  width: 20%;
+  height: 300px;
+  background-color: gray;
+  float: left;
+  text-align: center;
+}
+
+main {
+  width: 80%;
+  height: 300px;
+  background-color: lime;
+  float: right;
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(163, 48, 163);
+  height: 400px;
+  width: 100%;
+  text-align: center;
+  
+}
